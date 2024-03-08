@@ -29,7 +29,7 @@ Top and Bottom Performers: The dashboard highlights top and bottom-performing pi
 
 ![image](https://github.com/Sreshta05/Pizza-Sales/assets/76899515/82973341-8518-44e2-96f4-c8c3778728fb)
 
-How to Use:
+## How to Use:
 
 Open Power BI Desktop and import the cleaned dataset from MySQL.
 
